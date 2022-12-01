@@ -4,7 +4,7 @@ Instructions and assignments for the computational genomics workshop given at RU
 ## General information and requirments
 Good evening participants of the DNA Sequencing and Data Analysis course,
 
- **~~~ Don’t forget to bring your laptop to class ~~~**
+ **Don’t forget to bring your laptop to class**
 
 This Friday we will take a deep dive and get our hands dirty with real sequencing data! We start our exploration by getting deeply familiar with the most predominant method of sequencing to date, Next Generation Sequencing (NGS). We will learn how high-throughput sequencing is performed and get our computational tools configured in order to search for novel cancerous mutations in the genome of a cancer patient.
 
