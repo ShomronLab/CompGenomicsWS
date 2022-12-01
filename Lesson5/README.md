@@ -1,5 +1,5 @@
 # Lesson 5
-[Class Slides](https://drive.google.com/file/d/1JHInVa9kPUVB7brQNZWsWy3wLeJjkW3W/view?usp=sharing)
+[Class Slides](Slides5.pdf)
 
 ## Tools to be used today
 [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
