@@ -1,3 +1,5 @@
 .vscode
 src/
 *.ipynb
+# Notebook Checkpoints
+.ipynb_checkpoints/
