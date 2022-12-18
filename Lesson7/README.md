@@ -73,6 +73,14 @@ print_matrix(needleman_wunsch(seq1, seq2))
 Do the backtracing through the score matrix and print out the final alignment</br></br></br>
 
 
+## Assignment - BWT
+Read about the BWT and inverse BWT on [Wikipedia](https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform). 
+
+**A** Write functions that perform the BWT and inverse BWT on a given string. The BWT function should take a string as input and return the transformed string as output, while the inverse BWT function should take a transformed string as input and return the original string as output. Include the output of *bwt('hello world')* </br>
+For each of your functions, explain the time and space complexity of the algorithm?
+
+**B** How do suffix arrays are used in the BWT? How they are constructed and used in the BWT algorithm? What are the benefits and drawbacks of using suffix arrays in the BWT, and how they can be used to improve the performance of the algorithm. </br></br></br>
+
 
 You are free to use whatever programing language you feel comfortable in. The only requirement is to provide a detailed explanation on how to run your code on a 64 bit Linux.
 
