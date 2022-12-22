@@ -44,10 +44,9 @@ Next, we will index the final BAM to allow for random access
 samtools index -@ 8 AD0699_18N.bam
 ```
 **Q4:** What is the most common mapping quality (MAPQ) for the alignments in the BAM file? How many alignments have that mapping quality? What does that mapping quality reflect in terms of the estimated probability that the mapping location is wrong?</br>
-**Q5:** The `samtools mpileup` command reports the depth of coverage and the alleles observed at each position in the genome. Using this command, figure out which column of the output represents the depth of sequencing coverage report which two positions in the genome have the highest depth of sequencing coverage in this BAM file.</br>
-**Q6:** Load the BAM file into IGV using the File>Load (**make sure you choose refernce genome as hg38**)
-
-Using IGV, what is the total aligned sequencing depth on chromosome 8, position 109,557,831? How many G alleles and A alleles were observed?
+**Q5:** The `samtools mpileup` command reports the depth of coverage and the alleles observed at each position in the genome. Using this command, figure out which column of the output represents the depth of sequencing coverage report which two positions in the genome have the highest depth of sequencing coverage in this BAM file.</br></br>
+Load the BAM file into IGV using the File>Load (**make sure you choose refernce genome as hg38**)</br>
+**Q6:** Using IGV, what is the total aligned sequencing depth on chromosome 8, position 109,557,831? How many G alleles and A alleles were observed?</br></br>
 Align, sort and index the somatic sample in a similar manner.</br></br>
 ## Variant Calling
 Before we can execute the variant caller we need to produce a few auxiliary files. </br>
