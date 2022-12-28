@@ -16,7 +16,7 @@ conda activate rnaseq
 ## Assignment
 In this exercise you will perform alignment and QA of a RNA-Seq experiment. We’ll start from RNA-seq reads, preprocess them, then map the reads to a reference genome and QA the results.
 
-The file [S288C_RNA-seq_rep1_subsample.fq](S288C_RNA-seq_rep1_subsample.fq) is a small subsample from one of six RNA-seq experiments (three replicates) of the yeast strain [S288C](https://www.yeastgenome.org/strain/s288c), a widely used and known strain of yeast. Note that single-end (SE) sequencing was used. Start by running FastQC on the file to get a general idea of the quality of data.</br>
+The file [S288C_RNA-seq_rep1_subsample.fq.gz](S288C_RNA-seq_rep1_subsample.fq.gz) is a small subsample from one of six RNA-seq experiments (three replicates) of the yeast strain [S288C](https://www.yeastgenome.org/strain/s288c), a widely used and known strain of yeast. Note that single-end (SE) sequencing was used. Start by running FastQC on the file to get a general idea of the quality of data.</br>
 **Q1:** What is the read length? How many reads?
 
 Use [Trimmomatic](http://www.usadellab.org/cms/?page=trimmomatic), a read trimming tool for Illumina NGS data, and filter low-quality reads. Filter reads below average quality of 30. </br>
