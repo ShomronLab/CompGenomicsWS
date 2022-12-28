@@ -40,7 +40,7 @@ Attach a relevant screenshot of the region you examined.</br>
 Here are some genes with introns for example</br>
 | YDL083c | YEL003W | YKL180W | YNL162W |
 |---------|---------|---------|---------|
-You can simply paste the names into the search box in IGV and hit Enter to zoom to  a specific gene.
+</br>You can simply paste the names into the search box in IGV and hit Enter to zoom to  a specific gene.
 
 Finally, run [QualiMap](http://qualimap.conesalab.org/) for a more systematic QA of the mapping.</br>
 You’ll find the report under a new directory called [`input bam name`]_rnaseq_qc. Go over the report. Make sure you understand the meaning of the different statistics. Notice the results for the `Strand specificity estimation` stat.</br> 
