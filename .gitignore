@@ -3,5 +3,7 @@ src/
 *.ipynb
 # Notebook Checkpoints
 .ipynb_checkpoints/
-Lesson9/output/
-Lesson5/output/
+
+Lesson5-IntroNGS/output/
+Lesson9-RNASeq/output/
+
