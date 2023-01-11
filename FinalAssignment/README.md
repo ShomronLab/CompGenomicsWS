@@ -52,7 +52,10 @@ Genomes:
 
 3. Jungle cat (FelChav1.0) - https://www.ncbi.nlm.nih.gov/assembly/GCA_019924945.1
 
-**To be added bat, rat genomes**
+4. Rat (mRatBN7.2) - https://www.ncbi.nlm.nih.gov/assembly/GCF_015227675.2
+
+5. Jackal (ROS_Cfam_1.0) - https://www.ncbi.nlm.nih.gov/assembly/GCF_014441545.1 (No published jackal genome, we will use a relative, the dog)
+
 
 On the right you have a `Download Assembly` button. Choose the `RefSeq` source database and download the **Genomic FASTA (.fna)**
 
