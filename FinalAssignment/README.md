@@ -30,7 +30,7 @@ We will start by examining the FASTQ file produced for your sequencing.
 
 1. Describe general statistics of the sequences and produce visualization for at least 3 metrics.
 2. Based on your understanding decide how to trim and/or filter the raw data. You'll need to provide explanation for the logic you implemented during QC.
-3. Provide with the same metrics as in one 1 and describe the differences.
+3. Provide with the same metrics as in 1 and describe the differences.
 
 ## Comparative alignment assessment
 
@@ -48,7 +48,7 @@ Genomes:
 
 1. House mouse (GRCm39) - https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.27
 
-2. Ref fox (VulVul2.2) - https://www.ncbi.nlm.nih.gov/assembly/GCF_003160815.1
+2. Red fox (VulVul2.2) - https://www.ncbi.nlm.nih.gov/assembly/GCF_003160815.1
 
 3. Jungle cat (FelChav1.0) - https://www.ncbi.nlm.nih.gov/assembly/GCA_019924945.1
 
@@ -58,13 +58,13 @@ On the right you have a `Download Assembly` button. Choose the `RefSeq` source d
 
 ## Functional region that was sequenced
 
-After deciding of your chosen animal you are requested to locate one region with functional capabilities, investigate its role and present it class. Your animal might have an annotation file you can download, refer to NCBI (the link for your genome) and download a GTF or GFF file. Alternatively, extract the sequences that were aligned to the genome and [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) search to check the BLAST database for any functionality.
+After deciding animal sequences you obtained, you are requested to locate one region with functional capabilities, investigate its role and present it in class. Your animal might have an annotation file you can download, refer to NCBI (the link for your genome) and download a GTF or GFF file. Alternatively, extract the sequences that were aligned to the genome and [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) search to check the BLAST database for any functionality.
 
 Functional regions in the genome refer to specific regions of DNA that have a known or predicted function. These regions include:
 
-1. Coding regions: where the genetic code for proteins is located.
+1. Introns and exons: regions of a gene that are transcribed into RNA. Introns are non-coding regions that are transcribed but removed before the final mRNA is produced, while exons are coding regions that are transcribed and retained in the final mRNA.
 2. Regulatory regions: where genes are turned on or off, such as promoter regions and enhancer regions.
-3. Introns and exons: regions of a gene that are transcribed into RNA. Introns are non-coding regions that are transcribed but removed before the final mRNA is produced, while exons are coding regions that are transcribed and retained in the final mRNA.
+
 
 ## Microbiome exploration
 
@@ -92,7 +92,7 @@ Assess your resulting FASTA file using [assembly-stats](https://github.com/sange
 
 1. How many contigs are there and what is the length of the longest one?
 
-To compare the your assembly to the reference genome use the tool `dnadiff` that is part of the [Mummer package](https://github.com/garviz/MUMmer/blob/master/docs/dnadiff.README). Mummer is a fast aligner that can align complete genomes in relatively short time. (You can choose a different tool if you wish)
+To compare your assembly to the reference genome use the tool `dnadiff` that is part of the [Mummer package](https://github.com/garviz/MUMmer/blob/master/docs/dnadiff.README). Mummer is a fast aligner that can align complete genomes in relatively short time. (You can choose a different tool if you wish)
 
 Present your results!
 
