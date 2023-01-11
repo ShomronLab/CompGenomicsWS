@@ -11,7 +11,7 @@ The final assignment for our DNA sequencing and data analysis course will involv
 
 5. Choose one highly abundant microbe to discuss in class and assemble its genome. Locate its reference genome and find a metric to assess the correctness of the assembly.
 
-6. Summarize the main findings of the project in a 5-minute presentation to be delivered during the last class meeting.
+6. Summarize the main findings of the project in a 15-minute presentation to be delivered during the last class meeting. The presentation is to be divided into: technical aspects and methods (5 min), bioinformatics (5 min), and biological findings (5 min).
 
 These tasks will require careful attention to detail and the ability to interpret and communicate the results effectively. The final outcome will be a comprehensive understanding of the bioinformatic and biological concepts related to DNA sequencing, as well as a skill to apply that knowledge on real-world data.
 
