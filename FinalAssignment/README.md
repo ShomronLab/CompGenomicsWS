@@ -24,6 +24,23 @@ You will be faced with two main challenges:
 Our objective (and yours!) is to experiment with real-world sequencing data. There's is **no** right solution here. You are now a bioinformatician dealing with unknown and new dataset.
 
 
+
+## Get your data
+Links for your raw sequences and run reports.
+
+**You need Reichman username and password to access the links.**
+
+[A](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/EdcQc8Sa69ZMj2K1rqip1tkB_eaB3aXs2sVk49UjquiNKQ?e=buCcGD)
+
+[E](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/EUBa_wWSnphPliZDilCCyXMBw36WRMY4yZpjbwDrnRgv_w?e=JSSSp5)
+
+[R](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/ERw5eXSFaw1GpmPWAaS_CjsBbzODDxhjGstcWxg7CxxfDQ?e=sV30Zf)
+
+[M1](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/EaL6FLRY_Y5IvyBlsBp1X80B4-0ziY2jZplxBfDRiOf9aA?e=QKIn8D)
+
+[M2](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/EX4656D3lb1EkitpKurXzNMBE7zlqtE3l7YNNy7s8qEltA?e=ETVLE4)
+
+
 ## QC/A
 
 We will start by examining the FASTQ file produced for your sequencing.
