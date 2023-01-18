@@ -67,7 +67,7 @@ Genomes:
 
 2. Red fox (VulVul2.2) - https://www.ncbi.nlm.nih.gov/assembly/GCF_003160815.1
 
-3. Jungle cat (FelChav1.0) - https://www.ncbi.nlm.nih.gov/assembly/GCA_019924945.1
+3. Jungle cat (FelChav1.0) - https://www.ncbi.nlm.nih.gov/assembly/GCA_019924945.1 **Note:** The jungle cat genome is missing in the RefSeq database, you'll need to use the GenBank database.
 
 4. Rat (mRatBN7.2) - https://www.ncbi.nlm.nih.gov/assembly/GCF_015227675.2
 
