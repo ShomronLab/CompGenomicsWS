@@ -20,7 +20,7 @@ As you can see we have R1 & R2 for the normal (18N) and the tumor (18T) </br></b
 **Q1:** The file [Metadata_18.csv](Metadata_18.csv) contain additional meta information about the files we are downloading. What is 'neoplasm' and 'normal tissue adjacent to neoplasm' mean? </br>
 **Q2:** The 23rd column (LIBRARY_STRATEGY) is marked as WXS. What is Whole Exome Sequencing? What will be the fastq file sizes if we did WGS instead?</br></br>
 Once downloads have completed start by simply looking at each file and making sure the data format is OK. Make sure read titles make sense and match between R1 and R2.</br>
-**Q3:** what is the difference between the header of the first read in R1 and the header of the first read in R2?
+**Q3:** what is the difference between the header of the first read in R1 and the header of the first read in R2?</br>
 **Q4:** What is the read length? How many reads are there per file?</br></br>
 Run FastQC on all files.</br>
 Did you get the number of reads per file correct?</br>
