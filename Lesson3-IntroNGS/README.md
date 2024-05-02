@@ -1,5 +1,5 @@
 # Lesson 3
-[Class Slides](slides3.pdf)
+[Class Slides](lecture3.pdf)
 
 ## Tools to be used today
 [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
