@@ -1,4 +1,4 @@
-# Lesson 7
+# Lesson 6
 [Class Slides](Slides6.pdf)
 
 ## Assignment
