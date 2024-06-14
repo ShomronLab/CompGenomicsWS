@@ -30,7 +30,13 @@ Links for your raw sequences and run reports.
 
 **You need Reichman username and password to access the links.**
 
-#### TBD
+[Team A](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/EYTIatElTuNNg7IjTiXgmQ8BNXGxA_3H16PiVEjQlQ8PdA?e=2gVpBb)
+
+[Team B](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/EbVd6HXECnhEo0dBTB_mKcwBECxQNKC-Jkg8OO_EtFsmnw?e=LDNkyq)
+
+[Team C](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/ERf9kJBQ9NhGhS3VSjaDyEUBfJiVYpRna5A1hKZnpwW-DA?e=wb9Oew)
+
+[Team D](https://postidcac-my.sharepoint.com/:u:/g/personal/hadas_volkov_post_runi_ac_il/EZiIXZ_ksIRIrMqSgC26XScBioZ-1vX1DiyIOzqltbbEiQ?e=AO7tmC)
 
 ## QC/A
 
