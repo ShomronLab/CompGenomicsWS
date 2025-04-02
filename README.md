@@ -1,5 +1,5 @@
 # Computional Genomics WorkShop
-Instructions and assignments for the computational genomics workshop given at RUNI 2024
+Instructions and assignments for the computational genomics workshop given at RUNI 2025
 
 ## General information and requirments
 
@@ -13,6 +13,6 @@ To facilitate easy installation of bioinformatic tools please consider installin
 
 In the following weeks class time will be split into two sections, we will start with a lecture followed by hands-on time for an assignment you’d have to submit up to a week after, so don’t forget to bring your laptop to class.
 
-hadas.volkov@post.runi.ac.il
+amit.levon@post.runi.ac.il
 
 
