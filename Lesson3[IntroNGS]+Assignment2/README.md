@@ -27,12 +27,11 @@ Run FastQC on all the files.</br>
 Did you get the number of reads per file correct?</br>
 **Q5:** Check the "Per base sequence quality". Do the overall base qualities look ok? Do you notice any strange behavior?</br>
 **Q6:** Does the "Per base sequence content" behave as expected?</br>
-**Q7:** What does deduplicated sequences mean in the "Sequence Duplication Levels" plot? Can you find a tool that removes duplicated sequences?</br></br>
 In the next lesson we will learn all about alignment and mapping. Let us pull the human reference genome in a fasta format from the UCSC Genome Browser ( [UCSC](http://hgdownload.soe.ucsc.edu/downloads.html#human) ):
 ```bash
 curl -O http://hgdownload.cse.ucsc.edu/goldenPath/hg38/bigZips/hg38.fa.gz
 ```
-**Q8:** What is hg38?</br>
-**Q9:** How many sequences are present in the human reference genome you just downloaded?</br>
-**Q10:** Just by looking at the sequence names can you understand what sequences they are?</br>
-**Q11:** How many nucleotides are there in chromosome 1? How many in chromosome 20?
+**Q7:** What is hg38?</br>
+**Q8:** How many sequences are present in the human reference genome you just downloaded?</br>
+**Q9:** Just by looking at the sequence names can you understand what sequences they are?</br>
+**Q10:** How many nucleotides are there in chromosome 1? How many in chromosome 20?
