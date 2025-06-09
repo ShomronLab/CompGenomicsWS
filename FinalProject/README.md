@@ -115,7 +115,7 @@ To compare your assembly to the reference genome use the tool `dnadiff` that is 
 
 Present your results!
 
-### An example presentation from last year -> [c2023_teamA.pdf](c2023_teamA.pdf)
+### An example presentation from last year -> [Example_presentation.pdf](Example_presentation.pdf)
 
 ### Good Luck!
 
