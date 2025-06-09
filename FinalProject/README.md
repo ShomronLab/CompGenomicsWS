@@ -62,7 +62,7 @@ Genomes:
 
 1. House mouse (GRCm39) - https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.27
 
-2. Red fox (VulVul2.2) - https://www.ncbi.nlm.nih.gov/assembly/GCF_003160815.1
+2. Red fox (VulVul3) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_048418805.1
 
 3. Jungle cat (FelChav1.0) - https://www.ncbi.nlm.nih.gov/assembly/GCA_019924945.1
 
