@@ -60,17 +60,17 @@ Here's a list of aligners that you might find useful. The list is not exhaustive
 
 Genomes:
 
-1. House mouse (GRCm39) - https://www.ncbi.nlm.nih.gov/assembly/GCF_000001635.27
+1. Dog (ROS_Cfam_1.0) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_014441545.1
 
-2. Red fox (VulVul3) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_048418805.1
+2. Jungle cat (FelChav1.0) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_019924945.1
 
-3. Jungle cat (FelChav1.0) - https://www.ncbi.nlm.nih.gov/assembly/GCA_019924945.1
+3. Donkey (EquAss-T2T_v2) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_041296235.1
 
-4. Rat (Rrattus_CSIRO_v1) - https://www.ncbi.nlm.nih.gov/assembly/GCF_011064425.1
+4. African bush elephant (mLoxAfr1.hap2) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_030014295.1
 
-5. Dog (ROS_Cfam_1.0) - https://www.ncbi.nlm.nih.gov/assembly/GCF_014441545.1
+5. Gray mouse lemur (Mmur_3.0) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000165445.2
 
-6. Bat (ASM3001541v1) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_030015415.1
+6. Eastern gray kangaroo (mg-2k) - https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_028627215.1
 
 
 On the right you have a `Actions` and choose `Download RefSeq` or `Download GenBandk` button. Download the **Genome sequences (FASTA)**
