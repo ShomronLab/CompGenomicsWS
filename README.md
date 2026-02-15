@@ -1,5 +1,5 @@
 # Computional Genomics WorkShop
-Instructions and assignments for the computational genomics workshop given at RUNI 2025
+Instructions and assignments for the computational genomics workshop given at RUNI 2026
 
 ## General information and requirments
 
