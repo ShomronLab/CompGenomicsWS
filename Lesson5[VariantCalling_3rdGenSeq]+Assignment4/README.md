@@ -1,4 +1,4 @@
-# Lesson 6
+# Lesson 5
 [Class Slides](Lecture5_2026.pdf)
 
 ## Tools to be used today
