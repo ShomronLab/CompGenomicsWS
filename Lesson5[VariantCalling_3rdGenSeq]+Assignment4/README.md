@@ -1,5 +1,5 @@
 # Lesson 6
-[Class Slides](Lecture6_2026.pdf)
+[Class Slides](Lecture5_2026.pdf)
 
 ## Tools to be used today
 [Samtools](http://www.htslib.org/)</br>
